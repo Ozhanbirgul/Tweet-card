@@ -6,7 +6,7 @@
 4- Eğer klavye girişi varsa tweet butonu aktif olacak.
 5- Eğer kullanıcı limiti geçmişse tweet butonu  pasit olacak.
 # Tweet-card
-# Tweet-card
+
 
 
 <h1> KULLANILAN TEKNOLOJİLER</h1>
